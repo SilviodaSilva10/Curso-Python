@@ -16,3 +16,11 @@ print('O nome é: {nome}')
 ```
 outra forma:
 `print('O nome é {}'.format(nome))`
+
+### Formatação te
+```
+    nome = 'Silvio'
+    print('Ben vindo {:^20}')
+```
+
+

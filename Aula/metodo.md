@@ -1,6 +1,6 @@
-# Metodos 
+# Metódos 
 
-Os metodos são funções permitem realizar uma determinda operação:
+Os metodos são funções permitem realizar uma determinda operação em um objecto:
 
 ### Conversão
 
@@ -24,7 +24,7 @@ Os metodos são funções permitem realizar uma determinda operação:
      2
      '2'
 
-```   
+```
 
 ### isxxx()
 
