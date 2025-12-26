@@ -8,7 +8,7 @@ dia = int(input('Quantos dias ? : '))
 km = float(input('Quantos km? : '))
 
 v1 =float( dia * 60) 
-v2 = 0,15 * km
+v2 =float( 0.15 * km)
 
 pagar = v1 + v2 
 
